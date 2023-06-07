@@ -171,10 +171,6 @@ reallocarray dnl  OpenBSD function. We have replacement if not available.
 
 AC_CONFIG_FILES(
 Makefile
-doc/Makefile
-examples/Makefile
-examples/fastwc/Makefile
-examples/manual/Makefile
 po/Makefile.in
 src/Makefile
 tools/Makefile
